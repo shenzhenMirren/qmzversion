@@ -1,0 +1,10 @@
+{
+	"code": 200,
+	"msg": "成功",
+	"data": {
+		"type": 0,
+		"intro": "更新服务地址",		
+		"iosurl": "https://v1api.ios.bible.ac.cn",
+		"andurl": "https://v1api.android.bible.ac.cn"
+	}
+}
