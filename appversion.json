@@ -2,10 +2,10 @@
 	"code": 200,
 	"msg": "成功",
 	"data": {
-		"type": 0,
-		"intro": "更新服务地址",
-		"iosurl": "http://testapi.bible.ac.cn",
-		"andurl": "http://testapi.bible.ac.cn",
+		"type": 1,
+		"intro": "软件已暂停服务,请联系你的好友获取最新版APP",
+		"iosurl": "https://qmz.app",
+		"andurl": "https://qmz.app",
 		"v3": {
 			"inside": {
 				"type": 0,
